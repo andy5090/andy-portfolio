@@ -1,5 +1,5 @@
 import { ThemeProvider } from "styled-components";
-import GlobalStyle from "./styles/GlobalStyles";
+import GlobalStyle from "./styles/globalStyles";
 import BasicTheme from "./styles/theme";
 import Main from "./views/Main";
 
