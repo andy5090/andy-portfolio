@@ -11,7 +11,6 @@ const CRT = styled.div`
   /* min-width: 80ch;
   height: calc(80ch * 0.8); */
   font-size: max(1rem, 2.1vmin);
-  font-family: monospace;
   height: inherit;
   position: relative;
   background: var(--bg);
