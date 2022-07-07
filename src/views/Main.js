@@ -30,12 +30,13 @@ const CRT = styled.div`
   }
 
   @media (max-width: 450px) {
-    pre {
-      transform: rotate(90deg);
-      margin-left: -40%;
-      margin-right: -40%;
-    }
+    font-size: 1px;
     flex-direction: row-reverse;
+
+    pre {
+      width: 100px;
+      transform: rotate(90deg) translateX(-200%);
+    }
   }
 `;
 

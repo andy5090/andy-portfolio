@@ -12,7 +12,7 @@ const GlobalStyle = createGlobalStyle`
         height: 100%;
     }
     body {
-        font-family: Monospace, sans-serif;    
+        font-family: Lucida Console, monospace;    
         overflow: hidden;
         height: inherit;
     }
